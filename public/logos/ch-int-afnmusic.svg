@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="22" fill="#0F172A"/>
+  <rect x="4" y="4" width="112" height="112" rx="18" stroke="#F43F5E" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M36 74V46L52 38V68" stroke="#FB7185" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="31" cy="76" r="7" fill="#F43F5E"/>
+  <circle cx="47" cy="69" r="7" fill="#F43F5E"/>
+  <path d="M68 44C77 50 77 70 68 76M79 36C92 46 92 74 79 84" stroke="#38BDF8" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="60" y="103" text-anchor="middle" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" letter-spacing="1.5">AFN TV</text>
+</svg>

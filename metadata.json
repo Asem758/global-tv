@@ -1,0 +1,6 @@
+{
+  "name": "Global TV Hub",
+  "description": "International live TV streaming platform for discovering and watching verified, legally accessible public broadcasts from Bangladesh, India, and around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
